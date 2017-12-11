@@ -1,0 +1,6 @@
+INSERT INTO `dede_uploads` VALUES('1','1','D:/upupw52/wwwroot/site1/uploads/allimg/160823/155523M52-0.j','/uploads/allimg/160823/155523M52-0.jpg','1','600','450','0','53518','1471938923','1');
+INSERT INTO `dede_uploads` VALUES('2','2','河南一男子病房掐死流产住院妻子 一审判死缓','/uploads/allimg/160823/1555432b6-0.jpg','1','600','450','0','53518','1471938943','1');
+INSERT INTO `dede_uploads` VALUES('3','3','留学生国外学历学位认证要多久时间，能否加急','/uploads/allimg/160823/16142T552-0.jpg','1','425','282','0','136871','1471940069','1');
+INSERT INTO `dede_uploads` VALUES('4','4','山东国外学历学位认证办理须知','/uploads/allimg/160823/16153U641-0.jpg','1','1024','703','0','167177','1471940140','1');
+INSERT INTO `dede_uploads` VALUES('5','5','美国东北大学回国怎么办理学历认证？','/uploads/allimg/160823/1616221J5-0.jpg','1','400','364','0','44648','1471940183','1');
+INSERT INTO `dede_uploads` VALUES('6','6','国外学历认证须知及网址','/uploads/allimg/160823/16223C948-0.jpg','1','847','567','0','70705','1471940557','1');

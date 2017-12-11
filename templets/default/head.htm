@@ -1,0 +1,37 @@
+<div class="mobile_header hidden-md hidden-lg">
+			<a href="{dede:global.cfg_basehost/}" class="logo">
+				<img src="{dede:global.cfg_basehost/}/style/upload/logo.png"/>
+			</a>
+			<span class="menu_icon"></span>
+			<ul class="menu">
+				<li class="on_"><a href="{dede:global.cfg_basehost/}">首页</a></li>
+	        	{dede:type typeid='1'}<li class="on_1"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='2'}<li class="on_2"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='3'}<li class="on_3"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='4'}<li class="on_4"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='5'}<li class="on_5"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+			</ul>
+		</div>
+		<div class="header hidden-xs hidden-sm clearfix">
+			<div class="container">				
+				<a href="{dede:global.cfg_basehost/}" class="logo">
+					<img src="{dede:global.cfg_basehost/}/style/upload/logo.png"/>
+				</a>
+				<div class="nav">
+			    	<ul>
+			        	<li class="on_"><a href="{dede:global.cfg_basehost/}">首页</a></li>
+	        	{dede:type typeid='1'}<li class="on_1"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='2'}<li class="on_2"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='3'}<li class="on_3"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='4'}<li class="on_4"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+	        	{dede:type typeid='5'}<li class="on_5"><a href="[field:typelink /]">[field:typename /]</a></li>{/dede:type}
+			      	</ul>
+			    </div>
+			</div>
+		</div>
+<style>
+	.on_{dede:type}[field:ID /]{/dede:type}{
+		background: #E8A651 !important;
+	}
+	.on_{dede:type}[field:ID /]{/dede:type} a{color: #fff !important;}
+</style>
